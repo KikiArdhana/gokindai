@@ -139,14 +139,14 @@
         <!-- Kolom kiri untuk informasi kontak -->
         <div class="w-full lg:w-1/2 bg-rose-200 p-6 ml-5">
             <h2 class="text-lg font-bold text-white mb-4">Informasi Kontak</h2>
-            <p class="text-white mb-2">
-                Alamat: Jl. Example No. 123, Yogyakarta
+            <p class="text-white py-1 mb-2">
+                Alamat : Jl. Jemb. Merah No.116 D, Kaliwaru, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283
             </p>
-            <p class="text-white mb-2">
-                Telepon: +62 812-3456-7890
+            <p class="text-white py-1 mb-2">
+                Telepon: (0274) 2920744
             </p>
-            <p class="text-white">
-                Email: info@example.com
+            <p class="text-white py-1">
+                Jam buka : Setiap hari (07.00-21.00)
             </p>
         </div>
         
