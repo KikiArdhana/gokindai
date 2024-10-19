@@ -82,7 +82,7 @@
         <div class="w-1/2 ">
             <!-- Judul di tengah atas -->
             <h1 class="text-sm font-bold tracking-tight text-white sm:text-3xl mb-8 text-center">
-                About us & Place
+                About US & Place
             </h1>
 
             <h3 class="text-l font-semibold mb-4 text-white">Selamat datang di Kindai, Resto spesialis masakan Banjar</h3>
