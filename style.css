@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth; /* Untuk animasi gulir yang halus */
@@ -36,46 +35,3 @@ section {
 #about.container {
     align-items: left;
 }
-
-
-=======
-body {
-    font-family: 'Poppins', sans-serif;
-    scroll-behavior: smooth; /* Untuk animasi gulir yang halus */
-    background-color: #AB3434;
-}
-
-section {
-    padding: 100px 0;
-    height: 100vh; /* Tinggi setiap section penuh layar */
-    display: flex;
-    align-items: center; /* Tetap vertikal di tengah */
-    font-size: 24px;
-
-}
-
-
-.highlight {
-
-    color: #ffeb3b; /* Warna teks hitam */
-    /* Menambahkan sedikit jarak di sekitar teks */
-    border-radius: 4px; /* Menambahkan sudut melengkung */
-}
-
-
-/* Section home di kiri */
-#home {
-    justify-content: flex-start; /* Pindahkan konten ke kiri */
-}
-
-/* Section lain tetap di tengah */
-#reward, #about, #menu, #contact {
-    justify-content: center; /* Konten tetap di tengah */
-}
-
-#about.container {
-    align-items: left;
-}
-
-
->>>>>>> a23f66bc57ae35c8d0ab02f52ee0966e49e75a24
