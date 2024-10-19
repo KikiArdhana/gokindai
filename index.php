@@ -30,7 +30,7 @@
             <div class="text-left"> <!-- Teks rata kiri -->
             <div class="flex flex-col">
     <h1 class="text-balance text-4xl font-bold tracking-tight text-white sm:text-6xl">
-        it’s not just <span class="highlight">FOOD</span>,
+        it’s not jus <span class="highlight">FOOD</span>,
     </h1>
     <h1 class="text-balance text-4xl font-bold tracking-tight text-white sm:text-6xl mt-2">
         it’s an <span class="highlight">EXPERIENCE</span>.
@@ -55,7 +55,7 @@
 <section id="reward" class="flex flex-col justify-center items-center ">
     <div class="mt-10 text-center">
         <h1 class="text-balance text-4xl font-bold tracking-tight text-white sm:text-6xl">
-            Poin Anda, Hadiah Anda
+            Poin Anda, Hadiah And
             <h2 class="font-semibold py-2 text-white mt-2 text-2xl ">Cek sekarang untuk Promo Spesial!</h2>
         </h1>
         <form class="flex justify-center items-center mt-8 relative">
